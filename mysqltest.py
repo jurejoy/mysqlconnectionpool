@@ -4,9 +4,9 @@ import time
 
 # Obtain connection string information from the portal
 config = {
-  'host':'renjiemysql.mysql.database.azure.com',
-  'user':'harry@renjiemysql',
-  'password':'RenjieAzure@25',
+  'host':<host name>,
+  'user':<user name>,
+  'password':<your passwrod>,
   'database':'test'
 }
 
